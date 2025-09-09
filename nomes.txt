@@ -2,3 +2,4 @@ Python
 SQL
 GitHub
 PowerBi
+AWS
